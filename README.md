@@ -41,7 +41,7 @@ Prof. Hsu's e-mail: jison@mail.ntust.edu.tw
 Restriction
 -
 To guarantee the proper use of this database, the following restrictions must be followed by any person who has downloaded the database.
- 1. All submissions, publications, and works that use or talk about the YFP database must cite the paper. 
+ 1. All submissions, publications, and works that use or talk about the SIZER-PA database must cite the paper. 
  2. Permission is NOT granted to reproduce or distribute the database. 
  3. Written permission must be approved by Prof. Gee-Sern Hsu if a faculty member desires to share the database with her/his co-workers or students. Even then, the database cannot be posted on a webpage accessible from outside the faculty research group. 
  4. No economical profit can be made from this database. 
